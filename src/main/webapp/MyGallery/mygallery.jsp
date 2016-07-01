@@ -56,18 +56,18 @@
                 <p>June 17, 2014</p>
             </div>
             <div class="col-md-5">
-                <a href="blog-post.html">
-                    <img class="img-responsive img-hover" src="../img/f1.jpg" alt="">
+                <a href="read.jsp">
+                    <img class="img-responsive img-hover" src="../img/f1.jpg" alt="" >
                 </a>
             </div>
             <div class="col-md-6">
                 <h3>
-                    <a href="blog-post.html">저녁 조깅</a>
+                    <a href="read.jsp">저녁 조깅</a>
                 </h3>
                 <p>by <a href="#">1234hihi</a>
                 </p>
                 <p>집 앞에 있는 공원에서 저녁 조깅</p>
-                <a class="btn btn-primary" href="../blog-post.html">Read More <i class="fa fa-angle-right"></i></a>
+                <a class="btn btn-primary" href="./read.jsp">Read More <i class="fa fa-angle-right"></i></a>
             </div>
         </div>
         <!-- /.row -->
@@ -82,7 +82,7 @@
                 <p>June 17, 2014</p>
             </div>
             <div class="col-md-5">
-                <a href="blog-post.html">
+                <a href="read.jsp">
                     <img class="img-responsive img-hover" src="../img/f2.jpg" alt="">
                 </a>
             </div>
@@ -92,7 +92,7 @@
                 <p>by <a href="#">1234hihi</a>
                 </p>
                 <p>오랜만에 가족들과 등산 </p>
-                <a class="btn btn-primary" href="blog-post.html">Read More <i class="fa fa-angle-right"></i></a>
+                <a class="btn btn-primary" href="./read.jsp">Read More <i class="fa fa-angle-right"></i></a>
             </div>
         </div>
         <!-- /.row -->
